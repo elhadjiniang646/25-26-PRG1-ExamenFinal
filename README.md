@@ -2,7 +2,9 @@
 
 ## Instrucciones
 
-- Reemplace esta página por su nombre y únicamente la descripción del escenario que le corresponde resolver.
+- Su número N es la suma de los dígitos de las unidades y las decenas de su número de carné. (En caso de obtener un 0, considérelo un 10).
+- Reemplace esta página por su nombre, su número N y la descripción del escenario que le corresponde resolver.
+- Resuelva el escenario correspondiente a su número N.
 - Su entrega debe estar en la carpeta `/entregas/apellidoNombre`
   - El código fuente, en la carpeta `/entregas/apellidoNombre/src`
   - Las observaciones, en formato markdown y en la carpeta `/entregas/apellidoNombre/documentos`
